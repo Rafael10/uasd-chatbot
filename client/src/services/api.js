@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const API = axios.create({
-  baseURL: 'https://tu-url-render.onrender.com'
+  baseURL: 'https://uasd-chatbot-huyc.onrender.com'
 })
 
 export default API
